@@ -1,2 +1,3 @@
 # RazeCore
-RazeCore leading to a Swift version of my StyleManager Class
+
+A description of this package.
